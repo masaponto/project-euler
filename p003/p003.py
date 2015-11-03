@@ -16,5 +16,6 @@ def main():
     pflist = []
     print(solve(n, pflist))
     print(max(solve(n, pflist)))
+
 if __name__ == "__main__":
     main()
